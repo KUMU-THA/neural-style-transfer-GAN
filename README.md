@@ -3,7 +3,6 @@
 [![DOI](https://zenodo.org/badge/142345353.svg)](https://zenodo.org/badge/latestdoi/142345353)
 
 This is a PyTorch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. The code is based on Justin Johnson's [Neural-Style](https://github.com/jcjohnson/neural-style).
 
 The paper presents an algorithm for combining the content of one image with the style of another image using
 convolutional neural networks. Here's an example that maps the artistic style of
